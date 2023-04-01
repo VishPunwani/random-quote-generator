@@ -3,7 +3,7 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-header{
+.container {
     display: flex;
     align-items: center;
     align-self: center;
